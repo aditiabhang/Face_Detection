@@ -1,9 +1,9 @@
 # Face_Detection 🤖
 
-Facial Detection is my first step towards Machine Learning. 🦾 
+⚙️ Facial Detection is my first step towards Machine Learning. 🦾 
 This project consists of a python script to detect faces in an image or (webcam live video - in progress) using *haar cascade*.
 
-**'Facial detection using Haar Cascade'** is a Machine Learning approach, where the haar cascade function is trained with a set of input data. 
+⚙️ **'Facial detection using Haar Cascade'** is a Machine Learning approach, where the haar cascade function is trained with a set of input data. 
 These input set of data are available on the OpenCV github repository [OpenCV Pre-Trained Dataset Repo](https://github.com/opencv/opencv/tree/master/data/haarcascades) which contains ample of pre-trained classifiers for face, eyes, full body, front face, etc.
 
 > Before
